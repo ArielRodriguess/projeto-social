@@ -40,7 +40,10 @@ main {
 }
 
 #redes-sociais {
-  text-align: right;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translate(0, -50%);
 }
 
 #redes-sociais img {
@@ -59,4 +62,10 @@ main {
 
   transform: translate(-3px, -3px);
   transition: transform 0.4s, border 0.5s;
+}
+
+@media (max-width: 500px) {
+  #telefone {
+    left: 42%;
+  }
 }
