@@ -1,6 +1,6 @@
 # Projeto Redes Sociais
 
-![preview](./fundo.png)
+![preview](./readme/fundo.png)
 
 Projeto promovido por Curso Em Vídeo para ensino de tecnologias WEB.
 
